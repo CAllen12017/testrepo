@@ -1,2 +1,2 @@
 # testrepo
-This is a tets file to learn how to use github
+This is a test file to learn how to use github
